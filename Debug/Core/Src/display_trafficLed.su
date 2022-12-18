@@ -1,0 +1,12 @@
+display_trafficLed.c:25:6:clear_tLight1	8	static
+display_trafficLed.c:29:6:clear_tLight2	8	static
+display_trafficLed.c:33:6:clear_pLight	8	static
+display_trafficLed.c:38:6:currentState_update	16	static
+display_trafficLed.c:46:6:tLight1_processing	8	static
+display_trafficLed.c:62:6:tLight2_processing	8	static
+display_trafficLed.c:78:6:pLight_processing	8	static
+display_trafficLed.c:93:6:automatic_LED	8	static
+display_trafficLed.c:106:6:switchLED	8	static
+display_trafficLed.c:134:6:turningLED	4	static
+display_trafficLed.c:164:6:pesLED_NORMAL	8	static
+display_trafficLed.c:167:6:pesLED_ACTION	8	static
